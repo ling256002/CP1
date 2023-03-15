@@ -9,6 +9,7 @@ int main(void)
 	std::cout << "3.ÍøÕ¾¹¥»÷¼ÇÂ¼" << std::endl;
 	std::cout << "4.dns¹¥»÷" << std::endl;
 	std::cout << "5.·şÎñÆ÷ÖØÆô¹¥»÷" << std::endl;
+	std::cout << "²âÊÔ\n";
 
 	system("pause");
 	return 0;
